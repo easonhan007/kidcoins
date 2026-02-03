@@ -1496,7 +1496,7 @@ function App() {
         <div className="sidebar-top">
           <header className="app-header">
             <div className="header-content">
-              <h1><img src="/kidcoins.png" alt="KidCoins" style={{width: '24px', height: '24px', verticalAlign: 'middle'}} /> KidCoins</h1>
+              <h1><img src="/kidcoins.svg" alt="KidCoins" style={{width: '24px', height: '24px', verticalAlign: 'middle'}} /> KidCoins</h1>
               <div className="header-actions">
                 {currentKid && (
                   <div className="header-points">
